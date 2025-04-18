@@ -1,0 +1,21 @@
+{
+  "name": "bilibili-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Bilibili follower count retrieval",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "keywords": ["mcp", "bilibili"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0"
+  }
+}
