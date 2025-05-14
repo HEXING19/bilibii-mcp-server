@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hexing19-bilibii-mcp-server-badge.png)](https://mseep.ai/app/hexing19-bilibii-mcp-server)
+
 # Bilibili 粉丝数查询 MCP 服务
 
 这是一个基于Model Context Protocol (MCP)的服务，用于查询B站用户的粉丝数量。通过提供B站用户ID，可以获取该用户的粉丝数。
